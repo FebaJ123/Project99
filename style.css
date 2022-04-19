@@ -1,0 +1,23 @@
+.copy_right_foooter{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    width: 360px;
+    height:240px;
+}
+
+#result{
+    box-shadow: 0 6px 8px 0 rgba(2, 2, 2, 0.2);
+    width: 360px;
+    height: 240px;
+}
+
+img:hover{
+    border-radius: 140px;
+}
+
+#camera{
+    width: 360px;
+    height: 240px;
+}
